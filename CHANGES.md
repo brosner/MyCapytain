@@ -1,3 +1,7 @@
+### 2017-09-18 2.0.5 @ponteineptique
+
+- Issue 139 : Upgraded dependecy to lxml 4.0.0
+
 ### 2017-08-21 2.0.4 @ponteineptique
 
 - Issue 137 : Fixed a bug where a passage extraction would not work even if the passage was found in the reff extraction. Origin of the issue was replacing too much .// in the xpath and thus breaking it
