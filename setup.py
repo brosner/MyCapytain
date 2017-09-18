@@ -14,7 +14,7 @@ setup(
   install_requires=[
     "requests>=2.8.1",
     "six>=1.10.0",
-    "lxml>=3.6.4",
+    "lxml>=4.0.0",
     "future>=0.16.0",
     "rdflib-jsonld>=0.4.0"
   ],
